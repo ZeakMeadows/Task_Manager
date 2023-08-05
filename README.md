@@ -1,15 +1,26 @@
-# Read Me
-<!-- 
+<div align="center">
+  <h1>Task Manager</h1>
+  <p>A program for a small business that can help manage tasks assigned to each member of the team.</p>
+</div>
 
-Porject Name:
+## Table of Contents
+
+- [Project Name](#project-name)
+- [Short Description](#short-description)
+- [Files](#files)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
+## Project Name
 
 Task Manager
 
-short description:
+## Short Description
 
-A program for a small business that can help it to manage tasks assigned to each member of the team.
+A program for a small business that can help manage tasks assigned to each member of the team.
 
-Table of contents:
+## Files
 
 - task_manager.py
 - task_overview.txt
@@ -17,16 +28,20 @@ Table of contents:
 - user.txt
 - user_overview.txt
 
-Installation:
+## Installation
 
-simply download and run the folder in your code editor of choice. Make sure the files are all in the same folder before running the python code.
+To get started with Task Manager, follow these steps:
 
-Usage:
+1. Clone this repository to your local machine or download the ZIP file.
+2. Ensure you have Python installed on your system.
+3. Open the folder containing the project in your preferred code editor.
 
-This code relies on user input so you as the user will have to answer the questions asked by the program.
+## Usage
 
-Credits:
+This code relies on user input, so you, as the user, will have to answer the questions asked by the program.
 
-https://github.com/ZeakMeadows
+To run the Task Manager, execute the `task_manager.py` script in your code editor or terminal.
 
--->
+## Credits
+
+Credit for this project goes to [ZeakMeadows](https://github.com/ZeakMeadows).
